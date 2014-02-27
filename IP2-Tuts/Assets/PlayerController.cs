@@ -3,6 +3,7 @@ using System.Collections;
 
 public class PlayerController : MonoBehaviour {
 
+	//This is the animation controller
 	Animator animationController;
 
 
